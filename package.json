@@ -1,7 +1,11 @@
 {
   "name": "web-app-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple boilerplate for a MERN stack web app with MVC pattern",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PrajnaBhandary03/mern-boilerplate"
+},
   "main": "index.js",
   "babel": {
     "presets": [
